@@ -25,7 +25,7 @@ from sklearn.metrics import f1_score, accuracy_score\
 from sklearn.metrics import fbeta_score, make_scorer\
 from sklearn.linear_model import LogisticRegression\
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV\
-from sklearn.ensemble import RandomForestClassifier\
+from sklearn.ensemble import RandomForestClassifier
 
 
 
