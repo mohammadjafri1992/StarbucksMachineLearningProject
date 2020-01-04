@@ -1,4 +1,4 @@
-README FILE
+## README FILE
 
 This README file only applies to the Udacity Capstone Project - Starbucks
 
