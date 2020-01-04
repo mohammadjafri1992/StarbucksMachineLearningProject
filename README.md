@@ -7,25 +7,25 @@ This README file only applies to the Udacity Capstone Project - Starbucks
 
 Notebook imports:
 
-import pandas as pd
-import numpy as np
-import math
-import json
-from sklearn.preprocessing import MultiLabelBinarizer
-from datetime import datetime
-from sklearn.preprocessing import LabelBinarizer
-import matplotlib.pyplot as plt
-import seaborn as sns
-%matplotlib inline
-import os
-import re
-import progressbar
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import f1_score, accuracy_score
-from sklearn.metrics import fbeta_score, make_scorer
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
-from sklearn.ensemble import RandomForestClassifier
+import pandas as pd\
+import numpy as np\
+import math\
+import json\
+from sklearn.preprocessing import MultiLabelBinarizer\
+from datetime import datetime\
+from sklearn.preprocessing import LabelBinarizer\
+import matplotlib.pyplot as plt\
+import seaborn as sns\
+%matplotlib inline\
+import os\
+import re\
+import progressbar\
+from sklearn.model_selection import train_test_split\
+from sklearn.metrics import f1_score, accuracy_score\
+from sklearn.metrics import fbeta_score, make_scorer\
+from sklearn.linear_model import LogisticRegression\
+from sklearn.model_selection import GridSearchCV, RandomizedSearchCV\
+from sklearn.ensemble import RandomForestClassifier\
 
 
 
