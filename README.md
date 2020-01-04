@@ -8,11 +8,8 @@ This README file only applies to the Udacity Capstone Project - Starbucks
 Notebook imports:
 
 import pandas as pd
-
 import numpy as np
-
 import math
-
 import json
 from sklearn.preprocessing import MultiLabelBinarizer
 from datetime import datetime
