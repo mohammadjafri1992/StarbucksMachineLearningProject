@@ -1,4 +1,4 @@
-## README FILE
+# Starbucks - Offer Recommendation - Machine Learning 
 
 This README file only applies to the Udacity Capstone Project - Starbucks
 
