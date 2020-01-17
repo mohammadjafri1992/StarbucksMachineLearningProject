@@ -1,6 +1,6 @@
 # Starbucks - Offer Recommendation - Machine Learning 
 
-This README file only applies to the Udacity Capstone Project - Starbucks
+Starbucks is an international brand of coffee. Starbucks has been very successfull in make $5 cups of morning joe a very integrated part of the city culture.
 
 - This is a very simple project. Keep executing the notebook cells and you will be fine.
 - If you want to load all imports at once, then here is a list of the libraries I used.
